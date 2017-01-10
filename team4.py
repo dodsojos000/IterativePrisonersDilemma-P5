@@ -6,9 +6,9 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'Narnia'
-strategy_name = 'Aslan'
-strategy_description = 'Aslan knows everything'
+team_name = 'Narnia2'
+strategy_name = 'Aslan2'
+strategy_description = 'Aslan2 knows everything'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
